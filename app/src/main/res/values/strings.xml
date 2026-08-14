@@ -1,0 +1,121 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Lernplaner</string>
+
+    <!-- Start Screen -->
+    <string name="start_title">Lernplaner</string>
+    <string name="btn_to_login">ZUM LOGIN</string>
+    <string name="btn_to_register">JETZT REGISTRIEREN</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Willkommen beim Lernplaner</string>
+    <string name="email_hint">E-Mail</string>
+    <string name="password_hint">Passwort</string>
+    <string name="btn_login_text">LOGIN</string>
+    <string name="btn_new_account">NEUES KONTO ERSTELLEN</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Konto erstellen</string>
+    <string name="confirm_password_hint">Passwort wiederholen</string>
+    <string name="btn_do_register">Jetzt Registrieren</string>
+    <string name="btn_back_to_login">Bereits ein Konto? Login</string>
+
+    <!-- Daily Plan Screen -->
+    <string name="daily_plan_title">Dein Tagesplan</string>
+    <string name="daily_plan_header">Tages-Pensum</string>
+    <string name="label_select_project">Projekt auswählen:</string>
+    <string name="desc_delete_project">Projekt löschen</string>
+    <string name="label_your_status">Dein Status</string>
+    <string name="workload_placeholder">Lade Pensum...</string>
+    <string name="label_daily_recommendation">TÄGLICHE EMPFEHLUNG</string>
+    <string name="placeholder_daily_recommendation">-- / Tag</string>
+    <string name="label_add_progress">Fortschritt hinzufügen</string>
+    <string name="progress_hint">Menge eingeben</string>
+    <string name="save_progress_button">Fortschritt speichern</string>
+    <string name="btn_save">Speichern</string>
+    <string name="logout_button">Logout</string>
+    <string name="msg_no_active_goal">Kein aktives Ziel vorhanden.</string>
+    <string name="msg_no_project">Kein Projekt</string>
+    <string name="msg_error_loading">Fehler beim Laden</string>
+    <string name="msg_calculation_error">Berechnungsfehler.</string>
+    <string name="msg_progress_saved">Fortschritt gespeichert!</string>
+    <string name="msg_deleted">Gelöscht</string>
+    <string name="msg_error_prefix">Fehler: %1$s</string>
+    <string name="msg_error_stats">Fehler in der Statistik.</string>
+    <string name="msg_invalid_credentials">Ungültiges Passwort oder fehlerhafte E-Mail.</string>
+    <string name="msg_fill_all_fields">Bitte alle Felder ausfüllen!</string>
+    <string name="msg_project_created">Projekt \'%1$s\' erstellt!</string>
+    <string name="msg_no_active_goals">Keine aktiven Ziele.</string>
+    <string name="msg_no_goals">Keine Ziele</string>
+    <string name="msg_error_loading_data">Fehler beim Laden der Daten.</string>
+    <string name="msg_enter_email_password">Bitte E-Mail und Passwort eingeben</string>
+    <string name="msg_login_failed">Login fehlgeschlagen.</string>
+    <string name="msg_user_not_found">Kein Konto mit dieser E-Mail-Adresse gefunden.</string>
+    <string name="msg_passwords_dont_match">Passwörter stimmen nicht überein!</string>
+    <string name="msg_password_too_short">Passwort muss mind. 6 Zeichen lang sein</string>
+    <string name="msg_register_failed">Registrierung fehlgeschlagen.</string>
+    <string name="msg_weak_password">Das Passwort ist zu schwach.</string>
+    <string name="msg_invalid_email">Ungültige E-Mail-Adresse.</string>
+    <string name="msg_email_collision">Diese E-Mail-Adresse wird bereits verwendet.</string>
+    <string name="label_progress">Fortschritt:</string>
+    <string name="label_stand">Stand:</string>
+    <string name="label_tempo">TEMPO:</string>
+    <string name="format_avg_day">Ø %1$.1f %2$s pro Tag</string>
+    <string name="label_forecast">PROGNOSE:</string>
+    <string name="format_finish_in">Fertig in ca. %1$d Tagen.</string>
+    <string name="msg_goal_reached_upper">ZIEL ERREICHT!</string>
+    <string name="msg_not_enough_data">Noch nicht genug Daten für Prognose.</string>
+    <string name="format_list_detail">%1$d / %2$d %3$s (%4$.1f%%)</string>
+    <string name="msg_confirm_delete_title">Projekt löschen</string>
+    <string name="msg_confirm_delete_text">Möchtest du \'%1$s\' wirklich löschen?</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="btn_cancel">Abbrechen</string>
+
+    <string name="status_remaining_format">Noch %1$d %2$s offen.\nVerbleibend: %3$d Tage.</string>
+    <string name="recommendation_format">%1$.1f %2$s</string>
+    <string name="msg_well_done">Gut gemacht!</string>
+
+    <!-- Goal Input Screen -->
+    <string name="goal_input_title">Neues Projekt anlegen</string>
+    <string name="edit_goal_title">Projekt bearbeiten</string>
+    <string name="project_name_hint">Projektname (z.B. Mathe Klausur)</string>
+    <string name="deadline_hint">Deadline (z.B. 31.12.2023)</string>
+    <string name="total_amount_hint">Gesamtmenge (z.B. 300)</string>
+    <string name="unit_hint">Einheit (z.B. Seiten, Stunden)</string>
+    <string name="save_goal_button">Ziel speichern &amp; Starten</string>
+    <string name="btn_save_changes">Änderungen speichern</string>
+    <string name="btn_edit">Bearbeiten</string>
+
+    <!-- Evaluation Screen -->
+    <string name="evaluation_title">Statistiken</string>
+    <string name="label_all_projects">Alle Projekte</string>
+    <string name="placeholder_eval_selection">Wähle ein Projekt für Details.</string>
+    <string name="stats_placeholder">Statistiken werden berechnet...\n\n- Durchschnittliches Tempo\n- Prognose zur Fertigstellung</string>
+
+    <!-- Navigation Bar -->
+    <string name="nav_daily_plan">Tagesplan</string>
+    <string name="nav_add_goal">Ziel hinzufügen</string>
+    <string name="nav_evaluation">Auswertung</string>
+    <string name="nav_settings">Einstellungen</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Einstellungen</string>
+    <string name="btn_reset_password">Passwort zurücksetzen</string>
+    <string name="msg_reset_email_sent">E-Mail zum Zurücksetzen des Passworts wurde gesendet.</string>
+    <string name="account_section">Konto</string>
+    <string name="btn_back">Zurück</string>
+    <string name="btn_to_main">Zur Übersicht</string>
+
+    <!-- Congratulations Screen -->
+    <string name="congrats_title">Glückwunsch!</string>
+    <string name="congrats_message">Du hast dein Ziel erreicht!</string>
+    <string name="btn_new_goal">Neues Ziel setzen</string>
+    <string name="goal_name_label">Name des Ziels</string>
+    <string name="deadline_label">Deadline (Wann willst du fertig sein?)</string>
+    <string name="total_amount_label">Gesamtmenge</string>
+    <string name="total_amount_placeholder">z.B. 300</string>
+    <string name="unit_label">Einheit</string>
+    <string name="nav_today">Heute</string>
+    <string name="nav_new">Neu</string>
+    <string name="nav_stats">Statistik</string>
+</resources>

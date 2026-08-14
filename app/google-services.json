@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57319786781",
+    "project_id": "lernplaner-c4628",
+    "storage_bucket": "lernplaner-c4628.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57319786781:android:a2e5965b036af5fc31b9f4",
+        "android_client_info": {
+          "package_name": "com.example.lernplaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYgcxyTtKEOdBuflUZPiTaVwbMMSd2xek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
